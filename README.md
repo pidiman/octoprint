@@ -6,3 +6,5 @@ nastavenie pre viac tliaciarni
 `sudo -su`
 
 `sudo su`
+
+>sudo su>
