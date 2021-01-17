@@ -32,6 +32,7 @@ nastavenie pre viac tliaciarni
 `sudo reboot`
 
 **Nastavenie path**
+
 `sudo nano /etc/udev/rules.d/99-usb.rules`
 
 **Ender 3**
