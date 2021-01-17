@@ -14,6 +14,7 @@ nastavenie pre viac tliaciarni
 `sed s/octoprint/octoprint2/ < octoprint | sed s/OctoPrint/OctoPrint2/ | sed s/bin\\/octoprint2/bin\\/octoprint/ > octoprint2`
 
 **nastavime opravnenia**
+
 `chmod 755 octoprint2`
 
 `cd /etc/default`
@@ -26,7 +27,7 @@ nastavenie pre viac tliaciarni
 
 `sudo update-rc.d octoprint2 default 99`
 
-**restart 
+**restart**
 
 `sudo reboot`
 
