@@ -25,9 +25,16 @@ nastavenie pre viac tliaciarni
 
 **update nastaveni**
 
-`sudo update-rc.d octoprint2 default 99`
+`sudo update-rc.d octoprint2 defaults 99`
 
 **restart**
 
 `sudo reboot`
 
+Ender 3
+idVendor=0424
+idProduct=7800
+0403 6001
+0424 2514
+
+http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers
